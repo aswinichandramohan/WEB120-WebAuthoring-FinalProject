@@ -40,6 +40,7 @@ $nav1['index.php'] = "Welcome";
 $nav1['big/index.php'] = "BIG";
 $nav1['aia.php'] = "AIA";
 $nav1['flowchart.php'] = "Flowchart";
+$nav1['fp/template.html'] = "Template";
 $nav1['fp/index.php'] = "Final Project";
 $nav1['contactme.php'] = "Contact Aswini";
 
