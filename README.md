@@ -1,1 +1,2 @@
-# sp18-web120
+# Spring 2018 Web120 Projects
+
